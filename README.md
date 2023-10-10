@@ -1,9 +1,7 @@
 # Shopping Website Test Automation Project
 
-
 ## Screenshots
 
 #### Login
 
-![Login](ss/login.gif)
-
+![Login](ss/loginCheck.gif)
